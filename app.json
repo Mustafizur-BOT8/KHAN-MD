@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "MUSTAFIZUR"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY MUSTAFIZUR 🖤*"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "Mustafizur.",
       "required": false,
       "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "Mustafizur.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "60195168673"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "MUSTAFIZUR"
 
       }, 
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/20250414_231502~2.jpg"
     },
     
      "DESCRIPTION": {
